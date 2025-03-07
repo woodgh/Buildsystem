@@ -1,0 +1,6 @@
+C:/Workspace/BuildSystem/Build/Windows/CMakeFiles/ALL_BUILD.dir
+C:/Workspace/BuildSystem/Build/Windows/CMakeFiles/ZERO_CHECK.dir
+C:/Workspace/BuildSystem/Build/Windows/Main/CMakeFiles/Main.dir
+C:/Workspace/BuildSystem/Build/Windows/Main/CMakeFiles/ALL_BUILD.dir
+C:/Workspace/BuildSystem/Build/Windows/Example/CMakeFiles/Example.dir
+C:/Workspace/BuildSystem/Build/Windows/Example/CMakeFiles/ALL_BUILD.dir

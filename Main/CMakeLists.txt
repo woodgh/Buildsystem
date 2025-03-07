@@ -1,0 +1,5 @@
+PROJECT(Main)
+
+ADD_LIBRARY(${PROJECT_NAME}
+    ${PROJECT_NAME}.cpp
+)
