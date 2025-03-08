@@ -1,0 +1,8 @@
+/mnt/c/Workspace/Buildsystem/Build/Linux/CMakeFiles/edit_cache.dir
+/mnt/c/Workspace/Buildsystem/Build/Linux/CMakeFiles/rebuild_cache.dir
+/mnt/c/Workspace/Buildsystem/Build/Linux/Main/CMakeFiles/Main.dir
+/mnt/c/Workspace/Buildsystem/Build/Linux/Main/CMakeFiles/edit_cache.dir
+/mnt/c/Workspace/Buildsystem/Build/Linux/Main/CMakeFiles/rebuild_cache.dir
+/mnt/c/Workspace/Buildsystem/Build/Linux/Example/CMakeFiles/Example.dir
+/mnt/c/Workspace/Buildsystem/Build/Linux/Example/CMakeFiles/edit_cache.dir
+/mnt/c/Workspace/Buildsystem/Build/Linux/Example/CMakeFiles/rebuild_cache.dir
